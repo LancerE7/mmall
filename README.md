@@ -1,4 +1,4 @@
-# learn-axios
+# learn vue
 
 ## Project setup
 ```
